@@ -105,6 +105,11 @@ Debug output will overwrite the graphics so you might want to redirect to /dev/n
 
 The SCFB backend is fairly untested and might have bugs. 
 
+
+Weston also installs many example programs, just type   
+`$ ls -l /usr/local/bin/weston*`  
+to see what is available. 
+
 ### Sway (or other wlc-based compositor)
 Start with  
 `$ sway`
