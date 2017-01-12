@@ -1,2 +1,2 @@
-# documentation
+# Documentation
 Development logs and documentation
