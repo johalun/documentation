@@ -1,5 +1,6 @@
 # Wayland
 
+**outdated - updated version will come soon once everything is in ports!**
 ## Introduction
 Current Wayland support is highly experiemental and a work in progress. 
 Use these instructions if you are interested in trying Wayland out. 
